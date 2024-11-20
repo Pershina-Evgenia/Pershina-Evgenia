@@ -1,4 +1,4 @@
-## Hi there! I'm Pershina Evgenia 
+## Hi there, I'm Pershina Evgenia! 
 ## 🌱 I graduated from the Bauman Moscow State Technical University with a degree in technical physics.
 ## 🌱 I completed Yandex Practicum Courses as a Data Science Specialist.
 <!--
